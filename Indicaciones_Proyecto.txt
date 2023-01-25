@@ -1,0 +1,12 @@
+1) Diseñar y crear la Base de datos
+2)Maquetado Web.
+3) Motar Estructura MVC
+4) Hacer Registro Usuarios
+5)Hacer el login de usuarios
+6) Gestionar categorias para los usuarios administradores(listar y crear)
+7)Gestionar Productos para usuarios administradores(listar,crear,subir imagenes,editar y borrar)
+8) Listar Productos en la pagina de inicio
+9) Listar productos en la pagina de categoria
+10) Hacer Carrito de compra con sesiones.
+11)Formulario para hacer el pedido.
+12)Gestionar pedidos para administradores

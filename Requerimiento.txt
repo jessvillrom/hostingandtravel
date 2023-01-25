@@ -1,0 +1,53 @@
+*Requerimieto*
+La agencia de viajes de FlyCol solicita 
+la creación de su plataforma para 
+comecializar sus servicios de hoteleria,
+viajes y toures guiados.
+*Describir el uso de la plataforma
+*Descripción interacción del servicio.
+Todos los usuarios podran interactuar con 
+nuestra pagina web.
+*Los usuarios sin registrarsen pueden.*
+****************Hoteleria******************** 
+Ver Hotelesdiponibles(ubicación,habitaciones,
+numero de huespede,precios,comentarios). 
+****************Viajes******************** 
+Ver Vuelos diponibles(origen,Destinos,fechas de ida y regreso,numero de pasajero,
+precios,comentarios, promociones). 
+*************** Toures Guiados********************
+
+
+*USUARIOS REGISTADOS*
+****************Hoteleria******************** 
+Hacer la reservación (Pago del servicio) 
+****************Viajes******************** 
+Hacer la reservación (Pago del servicio) 
+****************Tour Guiado********************
+
+***Roles***
+Superadministrador: Control total sobre la plataforma
+Administrador: (Leer, Eliminar ) , Responder , 
+Agregar Productos y servicios. 
+
+************ Vistas **************
+Inicio (Hoteleria, Viajes y Toures Guiados)(Login & Registro)
+Inicio - Hoteleria (Solicitar Destino Fecha de Alojamiento{Inicio y Fin})
+Usuarios {
+    Login (email, password)
+    Registro 
+    (primer nombre, 
+    segundo nombre, 
+    primer apellido, 
+    segundo apellido,
+    email, tipodoc[], numerodoc,password,tel)
+
+    DatosdelCliente
+    EditarDatos (Actualizar)
+    
+}
+
+Hoteleria{
+    Hoteles Disponibles (Nombres Hotel,Precio,Servicio)
+
+
+}
